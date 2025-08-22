@@ -16,7 +16,7 @@ int main(){
             max = number[i];
         }
 
-        sum =+ number[i];
+        sum += number[i];
 
     }
 
